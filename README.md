@@ -1,1 +1,3 @@
-# PERSONAL-PORTFOLIO-WEB-4
+# Blog Platform
+
+Starter full-stack blog platform structure.
